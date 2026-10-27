@@ -8,7 +8,6 @@ import numpy as np
 from scipy.optimize import brentq
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="P5 — Penilaian Obligasi", page_icon="💰", layout="wide")
 st.title("💰 Pertemuan 5: Penilaian Obligasi")
 st.caption("Sub-CPMK5 · Amanah · QS Al Baqarah: 282")
 

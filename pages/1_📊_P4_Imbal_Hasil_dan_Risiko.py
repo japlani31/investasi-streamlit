@@ -7,7 +7,6 @@ import streamlit as st
 import numpy as np
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="P4 — Imbal Hasil & Risiko", page_icon="📊", layout="wide")
 st.title("📊 Pertemuan 4: Imbal Hasil dan Risiko Aset Tunggal")
 st.caption("Sub-CPMK4 · Fathonah · QS Luqman: 34")
 
